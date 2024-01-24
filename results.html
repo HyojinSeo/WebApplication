@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- CORS-enabled local server command: http-server --cors -p 8080 -->
+    <title>Which game should I play?</title>
+    <link rel="icon" href="Images/pink_cat_face.png">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/results.css">
+
+    <script defer src="./js/share.js"></script>
+    <script type="module" defer src="./js/results.js"></script>
+    
+</head>
+
+<body>
+  <h2 class="page-subtitle">
+    Found it!
+  </h2>
+  <h1 class="page-title"></h1>
+  <img src="" alt="char" class="character">
+  <div class="result">
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+  </div>
+  <div class="result">
+    <h3>I think this fit you</h3>
+    <div class="jobs">
+      <div class="job"></div>
+      <div class="job"></div>
+    </div>
+  </div>
+  <div class="result">
+    <h3>How about this?</h3>
+    <a href="" target="_blank" class="lecture">
+      <img src="" alt="lec">
+    </a>
+  </div>
+  <div class="btn btn-green btn-small share-or-copy">
+    Share your test
+  </div>
+  <a href="/" class="btn btn-gray btn-small">
+    Test again
+  </a>
+</body>
+</html>

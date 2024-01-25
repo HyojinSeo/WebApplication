@@ -36,7 +36,7 @@ export const questions = [
 export const results = [
   {
     title: '1',
-    character: '/Images/result1.jpeg',
+    character: './Images/result1.jpeg',
     results: [
       '',
       '',
@@ -44,7 +44,7 @@ export const results = [
       ''
     ],
     jobs: ['', ''],
-    lectureImg: '/Images/result1.jpeg',
+    lectureImg: './Images/result1.jpeg',
     lectureUrl: 'https://hyojinseo.github.io/'
   },
   {
@@ -57,12 +57,12 @@ export const results = [
       ''
     ],
     jobs: ['', ''],
-    lectureImg: '/Images/result2.jpeg',
+    lectureImg: './Images/result2.jpeg',
     lectureUrl: 'https://hyojinseo.github.io/'
   },
   {
     title: '3',
-    character: '/Images/result3.jpeg',
+    character: './Images/result3.jpeg',
     results: [
       '',
       '',
@@ -70,12 +70,12 @@ export const results = [
       ''
     ],
     jobs: ['', ''],
-    lectureImg: '/Images/result3.jpeg',
+    lectureImg: './Images/result3.jpeg',
     lectureUrl: 'https://hyojinseo.github.io/'
   },
   {
     title: '4',
-    character: '/Images/result4.jpeg',
+    character: './Images/result4.jpeg',
     results: [
       '',
       '',
@@ -83,7 +83,7 @@ export const results = [
       ''
     ],
     jobs: ['', ''],
-    lectureImg: '/Images/result4.jpeg',
+    lectureImg: './Images/result4.jpeg',
     lectureUrl: 'https://hyojinseo.github.io/'
   }
 ]

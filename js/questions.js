@@ -30,7 +30,7 @@ function nextQuestion(choiceNumber) {
   renderQuestion()
 }
 function showResultPage() {
-  location.href = '/results.html?mbti=' + mbti
+  location.href = './results.html?mbti=' + mbti
 }
 
 

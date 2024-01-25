@@ -1,5 +1,5 @@
 body {
-    background-image: url("../Images/pink_cat.png");
+    background-image: url("../Images/bk.png");
     background-position: top center;
     background-repeat: no-repeat;
 }
@@ -13,7 +13,7 @@ body {
     background-color: #FFFFFF;
 }
 .progress .value {
-    width: 10%;
+    width: 0%;
     height: 20px;
     background-color: #f99ac7;
     border-radius: 10px;

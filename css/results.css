@@ -1,6 +1,6 @@
 body {
     background-color: #EAF8FF;
-    background-image: url("../Images/pink_cat_face.png");
+    background-image: url("../Images/bk.png");
     background-position: top center;
     background-repeat: no-repeat;
   }
@@ -51,7 +51,7 @@ body {
     border: 1px solid #FFE603;
     border-radius: 20px;
     background-color: #FFFFFF;
-    background-image: url("../Images/pink_cat_face.png");
+    background-image: url("../Images/bk.png");
     background-repeat: no-repeat;
     background-position: center center;
     display: flex;
